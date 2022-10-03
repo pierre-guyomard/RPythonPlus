@@ -1,6 +1,5 @@
 **RPythonPlus**
 =============
-The Common Denominator
 ======================
 
 Subsection Subtitle
