@@ -1,5 +1,8 @@
 **RPythonPlus**
+An interface between R and Python for datascientists
 ======================
+
+
 
 Installation
 -------------------
