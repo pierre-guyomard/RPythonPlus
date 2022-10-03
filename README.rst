@@ -11,7 +11,7 @@ Usage
 
 RPythonPlus can be used like any common Python library.
 
-    import rpythonplus
+    import rpythonplus as rpp
 
 Licence
 -------------------
