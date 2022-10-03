@@ -15,3 +15,5 @@ Licence
 -------------------
 
 RPythonPlus is available under the GNU Lesser General Public License version 3.0 (<https://www.gnu.org/licenses/lgpl.html>).
+
+    import rpythonplus
