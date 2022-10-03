@@ -1,5 +1,4 @@
 **RPythonPlus**
-=============
 ======================
 
 Subsection Subtitle
