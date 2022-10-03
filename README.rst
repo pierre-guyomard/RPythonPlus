@@ -14,4 +14,4 @@ RPythonPlus can be used like a common python library.
 Licence
 -------------------
 
-RPythonPlus is available under the <https://www.gnu.org/licenses/lgpl.html> GNU Lesser General Public License version 3.0 (LGPLv3).
+RPythonPlus is available under the GNU Lesser General Public License version 3.0 (<https://www.gnu.org/licenses/lgpl.html>).
