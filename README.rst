@@ -17,7 +17,7 @@ RPythonPlus can be used like any common Python library.
 
 Tests
 --------------------------
-Run tests with the python file __test__.py in shell. Dataframes for tests are available here : <https://drive.google.com/drive/folders/1C5Z544WXmSOP2o786LPRCAxc9j4LTxnq?usp=sharing>. They must be in the same folder as __test__.py
+Run tests with the python file __test__.py in shell. Dataframes for tests are available here : <https://drive.google.com/drive/folders/1C5Z544WXmSOP2o786LPRCAxc9j4LTxnq>. They must be in the same folder as __test__.py
 
     python -m __test__.py
 
