@@ -1,4 +1,4 @@
-exec(open('conversion_r_python_20.py').read())
+exec(open('rpythonplus.py').read())
 
 
 def test_2() : #r_liste cree avec des py_listes
