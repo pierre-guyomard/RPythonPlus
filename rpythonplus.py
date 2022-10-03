@@ -1,3 +1,8 @@
+#RPythonPlus
+
+#Author Pierre GUYOMARD
+#Contact piguyomard@outlook.com
+
 import multiprocessing
 
 import math
