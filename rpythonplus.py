@@ -20,7 +20,7 @@ utils = importr('utils')
 
 base = importr('base')
 
-robjects.r.source('/home/pierre/miniconda3/envs/julia_env2/lib/python3.7/site-packages/' + 'toolbox.r')
+robjects.r.source('/home/pierre/miniconda3/envs/julia_env2/lib/python3.7/site-packages/' + 'rpythonplus_toolbox.r')
 
 is_numeric = (int, float, numpy.float16, numpy.float32, numpy.float64, numpy.float128, numpy.int8, numpy.int16, numpy.int32, numpy.int64)
 
